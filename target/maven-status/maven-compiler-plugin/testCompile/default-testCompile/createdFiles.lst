@@ -1,0 +1,13 @@
+com\mohs10\getData\getdata.class
+com\mohs10\database_testing\User_info.class
+com\mohs10\reuse\Autoit_reuse.class
+schemaTesting\Schema_Table_Testing.class
+storedprocedureTesting\SPTesting.class
+com\mohs10\scripts\HomeTest.class
+com\mohs10\database_testing\DB_1.class
+com\mohs10\or\HomePage.class
+com\mohs10\or\Autoit_OR.class
+com\mohs10\database_testing\Mercury_Info.class
+com\mohs10\scripts\Autoit_test.class
+com\mohs10\reuse\CommonFuns.class
+com\mohs10\reuse\DB_CF.class

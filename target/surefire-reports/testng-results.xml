@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73792" started-at="2022-11-01T12:37:52 IST" finished-at="2022-11-01T12:39:05 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="73792" started-at="2022-11-01T12:37:52 IST" finished-at="2022-11-01T12:39:05 IST">
+      <class name="com.mohs10.scripts.HomeTest">
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:com.mohs10.scripts.HomeTest@51cdd8a]" name="generateReport" is-config="true" duration-ms="521" started-at="2022-11-01T12:37:52 IST" finished-at="2022-11-01T12:37:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.mohs10.scripts.HomeTest@51cdd8a]" name="beforeClass" is-config="true" duration-ms="4810" started-at="2022-11-01T12:37:52 IST" finished-at="2022-11-01T12:37:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@51cdd8a]" name="methodName" is-config="true" duration-ms="12" started-at="2022-11-01T12:37:57 IST" finished-at="2022-11-01T12:37:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.BlogbtnTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method status="PASS" signature="BlogbtnTestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@51cdd8a]" name="BlogbtnTestCase" duration-ms="15013" started-at="2022-11-01T12:37:57 IST" finished-at="2022-11-01T12:38:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlogbtnTestCase -->
+        <test-method status="PASS" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@51cdd8a]" name="methodName" is-config="true" duration-ms="1" started-at="2022-11-01T12:38:12 IST" finished-at="2022-11-01T12:38:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.CategoriesTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method status="PASS" signature="CategoriesTest()[pri:0, instance:com.mohs10.scripts.HomeTest@51cdd8a]" name="CategoriesTest" duration-ms="17125" started-at="2022-11-01T12:38:12 IST" finished-at="2022-11-01T12:38:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CategoriesTest -->
+        <test-method status="PASS" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@51cdd8a]" name="methodName" is-config="true" duration-ms="1" started-at="2022-11-01T12:38:29 IST" finished-at="2022-11-01T12:38:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.InvalidLogInTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method status="PASS" signature="InvalidLogInTestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@51cdd8a]" name="InvalidLogInTestCase" duration-ms="9439" started-at="2022-11-01T12:38:29 IST" finished-at="2022-11-01T12:38:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLogInTestCase -->
+        <test-method status="PASS" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@51cdd8a]" name="methodName" is-config="true" duration-ms="1" started-at="2022-11-01T12:38:39 IST" finished-at="2022-11-01T12:38:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.LoginPageTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method status="PASS" signature="LoginPageTestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@51cdd8a]" name="LoginPageTestCase" duration-ms="14644" started-at="2022-11-01T12:38:39 IST" finished-at="2022-11-01T12:38:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTestCase -->
+        <test-method status="PASS" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@51cdd8a]" name="methodName" is-config="true" duration-ms="0" started-at="2022-11-01T12:38:53 IST" finished-at="2022-11-01T12:38:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.NewsbtnTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method status="PASS" signature="NewsbtnTestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@51cdd8a]" name="NewsbtnTestCase" duration-ms="10358" started-at="2022-11-01T12:38:53 IST" finished-at="2022-11-01T12:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewsbtnTestCase -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.mohs10.scripts.HomeTest@51cdd8a]" name="afterClass" is-config="true" duration-ms="1801" started-at="2022-11-01T12:39:04 IST" finished-at="2022-11-01T12:39:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.mohs10.scripts.HomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
